@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O HABITS é um app para ajudar a registrar e rastrear os hábitos.
 
+- Acesse o app através [DESSE LINK](https://itsBINHO.github.io/NLW-SETUP/).
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Dq3czjiL7RpcXcSLmDlhT1/Habits-(e)-(Community)?node-id=6%3A344&t=1kyboqVjG3JR72gt-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
